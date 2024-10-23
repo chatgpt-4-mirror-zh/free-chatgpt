@@ -2,11 +2,11 @@
 
 给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
-**什么是 ChatGPT 镜像网站?**
+## 什么是 ChatGPT 镜像网站?
 
 镜像站（Mirror Site）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
 
-**ChatGPT 镜像站的用途**
+## ChatGPT 镜像站的用途
 
    绕过访问限制 ：在某些地区，访问 OpenAI 官方网站可能受到限制或阻塞，镜像站可以帮助用户绕过这些限制，继续使用 ChatGPT 服务。 
    负载均衡 ：在高流量时期，镜像站可以分担部分用户请求，减轻官方服务器的负担，确保服务的稳定性。 
@@ -31,7 +31,7 @@
 - [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，360 出品
 - [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 清华大学唐杰团队开发
 
-### 国外其它大模型汇总
+## 国外其它大模型汇总
 
 - [https://talk.truthgpt.one/](https://talk.truthgpt.one/) - 马斯克出品，无需魔法，无需注册账号，直接使用
 
